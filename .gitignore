@@ -1,0 +1,6 @@
+# Mac OS固有のファイル
+.DS_Store
+.AppleDouble
+.LSOverride
+
+__MACOSX
